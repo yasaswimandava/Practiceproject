@@ -14,7 +14,7 @@
 
 
 <body>
-<h1>Welcome to DevOps Amit..!!</h1>
+<h1>Welcome to everyone</h1>
 	
 
 </body>
